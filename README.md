@@ -22,10 +22,11 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 
-Name : POOJA P
-RegisterNumber: 212224230195
+Name : SANJANA K L
+RegisterNumber: 212224230241
 
  python
+ ```
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -56,6 +57,7 @@ prediction=prediction.reshape(-1,1)
 pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
+```
 
 
 ## Output:
