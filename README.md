@@ -1,7 +1,8 @@
-AIM:
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
-Equipments Required:
+## Equipments Required:
 1.Hardware – PCs
 2.Anaconda – Python 3.7 Installation / Jupyter notebook
 Algorithm
@@ -13,7 +14,7 @@ Algorithm
 
 4.Plot the Cost function using Gradient Descent and generate the required graph.
 
-Program:
+## Program:
 
 Program to implement the linear regression using gradient descent.
 Developed by: SANJANA K L
@@ -51,14 +52,14 @@ pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
 ```
-Output:
+## Output:
 data information
 311714477-62833b13-f0ee-48f0-8d66-67635e4404e6
-Value of x
+## Value of x
 311714594-a026977b-70de-475a-bf0d-65918be7158d
-Value of X1_scaled
+## Value of X1_scaled
 311714652-ee49a231-be1b-47f9-8d73-18fd9c7ca74c
-predicted value
+## predicted value
 311714690-027aab37-9706-48c9-b5ed-32b92b60ba12
-Result:
+## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
